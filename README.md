@@ -1,2 +1,1 @@
-# Lazy
-Lazy Operations and Data Transformations
+# Lazy Operations and Data Transformations
